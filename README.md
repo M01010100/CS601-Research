@@ -6,5 +6,7 @@ CS 601
 
 -[Chapter 1: Basics of Research](/Content/Chapter%201%20-%20Basics%20of%20Research.pdf)
 
+-[Chapter 2: Goals of PhD Research](/Content/Chapter%202%20-%20Goals%20of%20PhD%20Research.pdf)
+
 # Book
 - [Crafting your research](/Content/Crafting-Your-Research-Future.pdf)
