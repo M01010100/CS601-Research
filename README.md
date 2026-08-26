@@ -10,3 +10,8 @@ CS 601
 
 # Book
 - [Crafting your research](/Content/Crafting-Your-Research-Future.pdf)
+
+## Project1 Papers
+-[Lower bounds on bipartite entanglement in noisy graph states](/Project1-Papers/q-2026-05-21-2111.pdf)
+-[Reconfigurable Intelligent Surface (RIS)-Assisted Entanglement Distribution in FSO Quantum Networks](/Project1-Papers/2401.10823v1.pdf)
+-[On noise in swap ASAP repeater chains: exact analytics, distributions and tight approximations](/Project1-Papers/2404.07146v5.pdf)
